@@ -1,0 +1,47 @@
+<main class="form-signin">
+  <form #loginForm="ngForm" (ngSubmit)="login(loginForm)">
+    <h1 class="h3 mb-3 fw-normal">Sisteme Giriş</h1>
+
+    <div class="form-floating">
+      <input
+        type="text"
+        #userName="ngModel"
+        [(ngModel)]="model.userName"
+        name="userName"
+        class="form-control"
+        id="userName"
+        placeholder="Kullanıcı Adı"
+        required
+        autofocus
+      />
+      <label for="floatingInput">Kullanıcı Adı</label>
+    </div>
+    <div class="form-floating">
+      <input
+        type="password"
+        #password="ngModel"
+        [(ngModel)]="model.password"
+        name="password"
+        class="form-control"
+        id="Password"
+        placeholder="Şifre"
+        required
+      />
+      <label for="floatingPassword">Şifre</label>
+    </div>
+
+    <div class="checkbox mb-3">
+      <label>
+        <input type="checkbox" value="remember-me" /> Beni Hatırla
+      </label>
+    </div>
+    <button
+      class="w-100 btn btn-lg btn-primary"
+      type="submit"
+      aria-current="page"
+      routerLink="/product-add-1"
+    >
+      Giriş Yap
+    </button>
+  </form>
+</main>
