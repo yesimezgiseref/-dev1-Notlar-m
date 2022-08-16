@@ -5,5 +5,6 @@
 ![Sisteme_giris_6](https://user-images.githubusercontent.com/77677458/184894855-44aea3eb-dc33-4193-ba94-47118611d48a.png)
 ![Sisteme_giris_7](https://user-images.githubusercontent.com/77677458/184894834-bb562d88-5e50-4be0-b787-f25ec0238be0.png)
 ![Urun_Bul](https://user-images.githubusercontent.com/77677458/184895662-37e53600-be31-44fa-95cf-c63feedca1e8.png)
-![Urun_Ekle](https://user-images.githubusercontent.com/77677458/184896298-60edad9a-e09b-4eb8-ab01-a271b02eedb1.png)
-![Magazaya_urun_eklendi](https://user-images.githubusercontent.com/77677458/184896308-9e34f939-7a9a-4430-9f96-a8a93c1feb82.png)
+
+![Magazaya_urun_eklendi](https://user-images.githubusercontent.com/77677458/184897579-75115519-fe57-4bca-8300-74fc42277842.png)
+![Urun_Ekle](https://user-images.githubusercontent.com/77677458/184897586-1dd34835-a302-4901-b352-177e5086e0b0.png)
